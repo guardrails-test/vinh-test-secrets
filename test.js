@@ -9,3 +9,5 @@ var ABUSEIPDB_KEY = "f29069147e8fb2e3a598eaca3a0396aa8aec228a39500fff632dff77120
 var POLYGON_API_KEY = "u6QCF1YPrgfUokLgcT9QctNIYmZ49rL4";
 
 var ABYSSALE_API_KEY = "3YpLVEQLnz2HhhJiz3uLra5soUNeut556N5lEsKB"
+var SHOPIFY_DOMAIN = "https://lmfaohahaxd.myshopify.com/something/lol"
+var SHOPIFY_TOKEN = "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"
