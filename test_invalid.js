@@ -12,3 +12,6 @@ var ABYSSALE_API_KEY = "3YpLVEQLnz2HhhJiz3uLra5soUNeut556N5lEsKb"
 
 var SHOPIFY_DOMAIN = "https://lmfaohahaxd.myshopify.com/something/lol"
 var SHOPIFY_TOKEN = "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"
+
+var MAILGUN_KEY = "1a3f7b2349d8933bbd6b9c6e44e59f1a-73f745ed-fbd786b5"
+var MAILGUN_SECRET = "key-b6c04df17812937716f10033f005ee0d"
