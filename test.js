@@ -24,3 +24,6 @@ var CLOUDFLARE_API_KEY = "pvqogjbnYDQmc2fMmQYiVU6iXq4zzkWTc4jnl7hR"
 var BEAMER_API_KEY = "b_JF12KX9AVoHZ21AIXGde/kS3GshgAxdnP9qbmB2OirQ="
 
 var HEROKU_API_KEY = "f7f54178-e6da-49af-a1cd-f3eb5afa2005"
+
+var CHARGEBEE_ENDPOINT = "https://lmfao12345.chargebee.com"
+var CHARGEBEE_API_KEY = "live_OP8zcuBzC7cd1lrnccdkABZaWaQwWbgOXZm"
